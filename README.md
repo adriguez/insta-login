@@ -30,9 +30,9 @@ Follow the following instructions:
 
 2) Register an application at https://www.instagram.com/developer/
 
-3) On the registration form enter http://yourwebsite.com/instagram/redirect.php as redirect URI for "OAuth redirect_uri" field.
+3) On the registration form enter http://dominio.com/instagram/example/redirect.php as redirect URI for "OAuth redirect_uri" field.
 
-4) Remember redirect uri should point to http://yourwebsite.com/instagram/redirect.php otherwise this application is not going to work. 
+4) Remember redirect uri should point to http://dominio.com/instagram/example/redirect.php otherwise this application is not going to work. 
 
 5) After creating the application you will get "CLIENT ID", "CLIENT SECRET" and "REDIRECT URI".
 
@@ -42,9 +42,9 @@ Follow the following instructions:
 
 8) Open index.php
 
-=============================================================================================================
-
 (ES)
+
+=============================================================================================================
 
 Siga las siguientes instrucciones:
 
@@ -52,9 +52,9 @@ Siga las siguientes instrucciones:
 
 2) Debe registrar una aplicación en: https://www.instagram.com/developer/
 
-3) En el formulario de registro debe introducir su dirección pública: http://dominio.com/instagram/redirect.php como URL de redirección en el campo "OAuth redirect_uri".
+3) En el formulario de registro debe introducir su dirección pública: http://dominio.com/instagram/example/redirect.php como URL de redirección en el campo "OAuth redirect_uri".
 
-4) Recuerde que para que la aplicación funcione la URL debe ser el archivo redirect.php, ej: http://yourwebsite.com/instagram/redirect.php
+4) Recuerde que para que la aplicación funcione la URL debe ser el archivo redirect.php, ej: http://dominio.com/instagram/example/redirect.php
 
 5) Después de crear la aplicación, debe guardar los campos:  "CLIENT ID", "CLIENT SECRET" y "REDIRECT URI".
 
