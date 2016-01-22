@@ -1,3 +1,5 @@
+#InstaLogin PHP
+
 (EN)
 
 This sample project demonstrates the integration of instagram apis with PHP. To work this script, User authentication with Instagram server is necessary.
